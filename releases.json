@@ -1,5 +1,5 @@
 [{
-		 "Version": "1.1.79",
+		 "Version": "1.1.78",
 		 "Links": {
 		  "darwin-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.78/TorrServer-darwin-amd64",
 		  "freebsd-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.78/TorrServer-freebsd-amd64",
