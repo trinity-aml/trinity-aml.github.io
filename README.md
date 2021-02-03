@@ -1,1 +1,1 @@
-Hear will were published binaries of TorrServer
+Hear will be published something for TorrServe
