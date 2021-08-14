@@ -228,10 +228,10 @@
   	{
 		"Version": "1.1.90",
 		"Links": {
-			"android-386": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.89/TorrServer-android-386",
-        		"android-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.89/TorrServer-android-amd64",
-        		"android-arm64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.89/TorrServer-android-arm64",
-        		"android-arm7": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.89/TorrServer-android-arm7",
+			"android-386": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.90/TorrServer-android-386",
+        		"android-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.90/TorrServer-android-amd64",
+        		"android-arm64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.90/TorrServer-android-arm64",
+        		"android-arm7": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.90/TorrServer-android-arm7",
 			"darwin-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.90/TorrServer-darwin-amd64",
 			"darwin-arm64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.90/TorrServer-darwin-arm64",
 			"freebsd-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.90/TorrServer-freebsd-amd64",
