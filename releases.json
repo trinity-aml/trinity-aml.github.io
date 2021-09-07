@@ -290,5 +290,27 @@
 			"windows-386.exe": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.91_OE/TorrServer-windows-386.exe",
 			"windows-amd64.exe": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.91_OE/TorrServer-windows-amd64.exe"
 		}
+	},
+     	{
+		"Version": "1.1.92_OE",
+		"Links": {
+			"android-386": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-android-386",
+        		"android-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-android-amd64",
+        		"android-arm64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-android-arm64",
+        		"android-arm7": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-android-arm7",
+			"darwin-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-darwin-amd64",
+			"darwin-arm64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-darwin-arm64",
+			"freebsd-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-freebsd-amd64",
+			"linux-386": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-linux-386",
+			"linux-amd64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-linux-amd64",
+			"linux-arm64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-linux-arm64",
+			"linux-arm7": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-linux-arm7",
+			"linux-mips": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-linux-mips",
+			"linux-mips64": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-linux-mips64",
+			"linux-mips64le": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-linux-mips64le",
+			"linux-mipsle": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-linux-mipsle",
+			"windows-386.exe": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-windows-386.exe",
+			"windows-amd64.exe": "https://github.com/trinity-aml/TorrServer/releases/download/1.1.92_OE/TorrServer-windows-amd64.exe"
+		}
 	}
 ]
