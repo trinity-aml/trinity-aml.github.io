@@ -1,0 +1,34 @@
+{
+  "addresses": [
+    {
+      "id": "aniliberty.top",
+      "name": "Основной домен",
+      "description": null,
+      "widget": "https://aniliberty.top/",
+      "site": "https://aniliberty.top/",
+      "image": "https://aniliberty.top/",
+      "api": "https://aniliberty.top/",
+      "status": "https://aniliberty.top/api/v1/app/status"
+    },
+    {
+      "id": "api.anilibria.app",
+      "name": "API-домен",
+      "description": null,
+      "widget": "https://aniliberty.top/",
+      "site": "https://aniliberty.top/",
+      "image": "https://api.anilibria.app/",
+      "api": "https://api.anilibria.app/",
+      "status": "https://api.anilibria.app/api/v1/app/status"
+    },
+    {
+      "id": "anilibria.top",
+      "name": "Запасной домен",
+      "description": null,
+      "widget": "https://aniliberty.top/",
+      "site": "https://aniliberty.top/",
+      "image": "https://anilibria.top/",
+      "api": "https://anilibria.top/",
+      "status": "https://anilibria.top/api/v1/app/status"
+    }
+  ]
+}
